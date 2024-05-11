@@ -1,6 +1,6 @@
 CREATE DATABASE Hospital;
 GO
-
+ 
 USE Hospital;
 GO
 
